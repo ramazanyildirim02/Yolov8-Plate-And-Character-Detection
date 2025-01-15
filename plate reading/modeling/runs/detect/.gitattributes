@@ -1,1 +1,2 @@
 detect/* filter=lfs diff=lfs merge=lfs -text
+yolov8l-plate-reading/* filter=lfs diff=lfs merge=lfs -text
